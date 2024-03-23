@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+    #icon{
+        height: 50px;
+        width: 50px;
+        background-image: url(Capture.PNG);
+    }
+   </style>
+    <title>background image</title>
+</head>
+<body>
+    <div id="icon"></div>
+</body>
+</html>
